@@ -13,6 +13,7 @@
 		8EE3554D2460B143009F989C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EE3554C2460B143009F989C /* Assets.xcassets */; };
 		8EE355502460B143009F989C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EE3554F2460B143009F989C /* Preview Assets.xcassets */; };
 		8EE355532460B143009F989C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EE355512460B143009F989C /* LaunchScreen.storyboard */; };
+		8EE3557B2460C182009F989C /* MoviesDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EE3557A2460C182009F989C /* MoviesDetailsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8EE3554F2460B143009F989C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8EE355522460B143009F989C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8EE355542460B143009F989C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EE3557A2460C182009F989C /* MoviesDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesDetailsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				8EE3554A2460B142009F989C /* ContentView.swift */,
 				8EE3554C2460B143009F989C /* Assets.xcassets */,
 				8EE355512460B143009F989C /* LaunchScreen.storyboard */,
+				8EE3557A2460C182009F989C /* MoviesDetailsView.swift */,
 				8EE355542460B143009F989C /* Info.plist */,
 				8EE3554E2460B143009F989C /* Preview Content */,
 			);
@@ -148,6 +151,7 @@
 			files = (
 				8EE355472460B142009F989C /* AppDelegate.swift in Sources */,
 				8EE355492460B142009F989C /* SceneDelegate.swift in Sources */,
+				8EE3557B2460C182009F989C /* MoviesDetailsView.swift in Sources */,
 				8EE3554B2460B142009F989C /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
